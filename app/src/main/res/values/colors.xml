@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="graphite_background">#FF1A1A22</color>
+    <color name="graphite_surface">#FF22222C</color>
+    <color name="accent_teal">#FF4ECDC4</color>
+    <color name="accent_amber">#FFFFB347</color>
+</resources>
