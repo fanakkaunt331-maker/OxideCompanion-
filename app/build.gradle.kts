@@ -28,6 +28,11 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
 
+    // Keep Kotlin bytecode compatible with the Java 17 target above.
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
     buildFeatures {
         compose = true
     }
